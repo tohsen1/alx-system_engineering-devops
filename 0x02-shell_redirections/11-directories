@@ -1,2 +1,2 @@
-#!i/bi/bash 
+#!/bi/bash 
 find ./* -type d -print | wc -li
